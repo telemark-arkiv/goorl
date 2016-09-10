@@ -1,7 +1,7 @@
 {
   "name": "goorl",
   "description": "Shorten urls with goo.gl",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
@@ -31,7 +31,8 @@
     "test": "standard && nsp check && tap --reporter=spec test/*.js",
     "coverage": "tap test/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/*.js && cat coverage/lcov.info | coveralls",
-    "setup": "npm install && node setup.js"
+    "setup": "npm install && node setup.js",
+    "standard-fix": "standard --fix"
   },
   "devDependencies": {
     "coveralls": "2.11.12",
