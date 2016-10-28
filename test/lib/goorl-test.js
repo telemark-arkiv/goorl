@@ -1,7 +1,7 @@
 'use strict'
 
 const tap = require('tap')
-const goorl = require('../index')
+const goorl = require('../../index')
 
 tap.test('Requires options to be specified', function (test) {
   const options = false
