@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/telemark/goorl",
   "engines": {
-    "node": ">=4.5.0"
+    "node": ">=4.6.1"
   },
   "main": "index.js",
   "scripts": {
