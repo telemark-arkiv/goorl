@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/telemark/goorl.svg?branch=master)](https://travis-ci.org/telemark/goorl)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 # goorl
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/goorl.svg)](https://greenkeeper.io/)
 Shortens url with goo.gl
 
 ## Installation
