@@ -1,7 +1,7 @@
 {
   "name": "goorl",
   "description": "Shorten urls with goo.gl",
-  "version": "2.0.24",
+  "version": "2.1.0",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
@@ -24,18 +24,18 @@
   },
   "homepage": "https://github.com/telemark/goorl",
   "engines": {
-    "node": ">=4.6.2"
+    "node": ">=4.8.4"
   },
   "main": "index.js",
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
     "coverage": "tap test/**/*.js --coverage",
     "coveralls": "tap --cov --coverage-report=lcov test/**/*.js && cat coverage/lcov.info | coveralls",
-    "setup": "npm install && node setup.js",
+    "setup": "npm install",
     "standard-fix": "standard --fix"
   },
   "devDependencies": {
-    "coveralls": "2.12.0",
+    "coveralls": "2.13.1",
     "nsp": "2.7.0",
     "standard": "10.0.3",
     "tap": "10.7.2"
