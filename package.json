@@ -22,9 +22,9 @@
   "bugs": {
     "url": "http://github.com/telemark/goorl/issues"
   },
-  "homepage": "https://github.com/telemark/goorl",
+  "homepage": "https://github.com/telemark/goorl#readme",
   "engines": {
-    "node": ">=4.8.4"
+    "node": ">=8.9.1"
   },
   "main": "index.js",
   "scripts": {
