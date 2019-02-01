@@ -1,7 +1,7 @@
 {
   "name": "goorl",
   "description": "Shorten urls with goo.gl",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
