@@ -1,6 +1,5 @@
 [![Build Status](https://travis-ci.org/telemark/goorl.svg?branch=master)](https://travis-ci.org/telemark/goorl)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/goorl.svg)](https://greenkeeper.io/)
 
 # goorl
 
@@ -57,5 +56,3 @@ goorl(options, (error, url) => {
 ## License
 
 [MIT](LICENSE)
-
-![Robohash image of goorl](https://robots.kebabstudios.party/goorl.png "Robohash image of goorl")
