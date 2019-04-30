@@ -1,6 +1,12 @@
 [![Build Status](https://travis-ci.org/telemark/goorl.svg?branch=master)](https://travis-ci.org/telemark/goorl)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
+# Deprecated
+
+Google discontinued the goo.gl service in March 2019.
+
+See this [blog post](https://developers.googleblog.com/2018/03/transitioning-google-url-shortener.html) for alternatives
+
 # goorl
 
 Shortens url with goo.gl
